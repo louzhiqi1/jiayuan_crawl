@@ -1,0 +1,12 @@
+<label><input value="1"><span>鼠</span></label>
+<label><input value="2"><span>牛</span></label>
+<label><input value="3"><span>虎</span></label>
+<label><input value="4"><span>兔</span></label>
+<label><input value="5"><span>龙</span></label>
+<label><input value="6"><span>蛇</span></label>
+<label><input value="7"><span>马</span></label>
+<label><input value="8"><span>羊</span></label>
+<label><input value="9"><span>猴</span></label>
+<label><input value="10"><span>鸡</span></label>
+<label><input value="11"><span>狗</span></label>
+<label><input value="12"><span>猪</span></label>

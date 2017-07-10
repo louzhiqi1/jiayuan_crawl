@@ -1,0 +1,7 @@
+<select name="Blood">
+<option value="1">A型</option>
+<option value="2">B型</option>
+<option value="3">O型</option>
+<option value="4">AB型</option>
+<option value="5">其它</option>
+<option value="6">保密</option>

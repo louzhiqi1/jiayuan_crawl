@@ -1,0 +1,5 @@
+<option value="10">2000元以下</option>
+<option value="20">2000～5000元</option>
+<option value="30">5000～10000元</option>
+<option value="40">10000～20000元</option>
+<option value="50" selected="selected">20000元以上</option>

@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.jiayuan.com	TRUE	/	FALSE	1499639033	SESSION_HASH	06a99b0f8e88878358d7b5cbe72c27fba5049df7
+search.jiayuan.com	FALSE	/	FALSE		PHPSESSID	c4e3b2e179f4c3c19300d29ef6d54dc2
+search.jiayuan.com	FALSE	/	FALSE	1508243033	is_searchv2	1

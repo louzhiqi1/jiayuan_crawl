@@ -1,0 +1,6 @@
+<option value="1">未婚</option>
+<option value="2">离异</option>
+<option value="3">丧偶</option>
+<option value="4">未婚、离异</option>
+<option value="5">未婚、丧偶</option>
+<option value="6">离异、丧偶</option>

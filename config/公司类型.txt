@@ -1,0 +1,9 @@
+<select name="Company">
+<option value="1">政府机关</option>
+<option value="2">事业单位 </option>
+<option value="3">外企企业 </option>
+<option value="4">世界500强 </option>
+<option value="5">上市公司 </option>
+<option value="6">国有企业 </option>
+<option value="7">私营企业 </option>
+<option value="8">自有公司</option>

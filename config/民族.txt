@@ -1,0 +1,13 @@
+<select name="Nation">
+<option value="1">汉族</option>
+<option value="2">藏族</option>
+<option value="3">朝鲜族</option>
+<option value="4">蒙古族</option>
+<option value="5">回族</option>
+<option value="6">满族</option>
+<option value="7">维吾尔族</option>
+<option value="8">壮族</option>
+<option value="9">彝族</option>
+<option value="10">苗族</option>
+<option value="11">其它</option>
+</select>

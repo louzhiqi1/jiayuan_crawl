@@ -1,0 +1,8 @@
+<option value="1">未购房</option>
+<option value="8" selected="selected">需要时购置</option>
+<option value="2">已购房</option>
+<option value="3">与人合租</option>
+<option value="4">独自租房</option>
+<option value="5">与父母同住</option>
+<option value="6">住亲朋家</option>
+<option value="7">住单位房</option>
