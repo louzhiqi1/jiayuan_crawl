@@ -27,7 +27,7 @@ UEsDBBQAAgAIAP5t5kovI5k1xQMAAMp9AAAMABEASUTK5Mjrv/IuYm1wVVQNAAdjP15ZYz9eWWM/Xlnt
 
 
 [UIPackage]
-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
+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
 
 
 [Script]
@@ -41,23 +41,23 @@ Function record(Id)
 	//数据导入
 	MoveTo 75, 480
 	LeftClick 1
-	Delay 1000
+	Delay 2000
 	//End If
 	//根据ID导入
 	MoveTo 100,568
 	LeftClick 1
-	Delay 1000
+	Delay 1500
 	//输入ID
-	MoveTo 355, 170
+	MoveTo 340, 189
 	LeftDoubleClick 1
 	KeyPress "BackSpace", 1
 	SayString Id
 	//点查询按钮
-	MoveTo 435, 170
+	MoveTo 420, 190
 	LeftClick 1
-	Delay 1000
+	Delay 2000
 	//点导入按钮
-	MoveTo 1040,268
+	MoveTo 1038,288
 	LeftClick 1
 	Delay 2000
 	//点掉确认框
@@ -74,8 +74,13 @@ Dim i
 i = 0
 Sub Main
 	While Form1.control.Caption = "stop"
-		Form1.Cnt.Caption = "Cnt:"&i
-		RunApp "jiayuan.exe"
+		Form1.Cnt.Caption = "Cnt:" & i
+		If Form1.gender.ListIndex = 0 Then 
+			RunApp "jiayuan.exe" & " 1"
+		Else 
+			RunApp "jiayuan.exe" & " 2"
+		End If
+		
 		Delay inteval		
 		//读新增加的id
 		Text = Plugin.File.ReadFileEx("new_ids.txt")
@@ -104,31 +109,27 @@ end Sub
 
 Event Form1.control.Click
 	If Form1.control.Caption = "start" Then 
-		Form1.delay_interval.Enabled = False
-		Form1.Auto.Enabled = False
-		Form1.control.Caption = "stop"
-		workThread = BeginThread(Main)
+		If Form1.password.Text = "aijnauy321" Then 
+			Form1.delay_interval.Enabled = False
+			Form1.Auto.Enabled = False
+			Form1.gender.Enabled = False
+			Form1.control.Caption = "stop"
+			workThread = BeginThread(Main)
+		Else 
+			MessageBox "别乱点"
+		End If
 	Else 
 		StopThread(workThread)
 		Form1.control.Caption = "start"
 		Form1.delay_interval.Enabled = True
 		Form1.Auto.Enabled = True
+		Form1.gender.Enabled = True
 	End If
 End Event
 
-Event Form1.delay_interval.SelectChange
-	Select Case Form1.delay_interval.ListIndex
-		Case 0
-			interval = 5000
-		Case 1
-			interval = 8000
-		Case 2
-			interval = 10000
-		Case 3
-			interval = 30000
-		Case 4
-			interval = 60000
-		Case 5
-			interval = 900000
-	End Select
+Event Form1.delay_interval.Change
+	interval = CInt(Form1.delay_interval.Text)
+	If interval < 10 Then 
+		MessageBox "建议10秒,间隔太短导入不了"
+	End If
 End Event

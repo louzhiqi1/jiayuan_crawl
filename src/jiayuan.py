@@ -56,7 +56,7 @@ def gen_stc():
         stc.append("%s:%s" % (k, v))
 
     # 下面代表啥我也不知道
-    stc.append("27:1")
+    # stc.append("27:1")
 
     return ",".join(stc)
 
@@ -204,10 +204,10 @@ def get_ids(p):
 def get_choice():
     return random.choice([2,1,2])
 
-def load_config():
+def load_config(choice):
     global conditions, sex, page, sn, maxid_txt
     conditions = {}
-    if get_choice() == 2:
+    if choice == 2:
         config, maxid_txt = "config_f.ini", "maxid_f.txt"
     else:
         config, maxid_txt = "config_m.ini", "maxid_m.txt"
@@ -230,5 +230,15 @@ def load_config():
             conditions[key] = val
 
 if __name__ == "__main__":
-    load_config()
+    if len(sys.argv) > 0:
+        choice = int(sys.argv[1])
+    else:
+        choice = 1
+    start_time =  time.time()
+    load_config(choice)
+
+    
+
     work()
+
+    print time.time() - start_time

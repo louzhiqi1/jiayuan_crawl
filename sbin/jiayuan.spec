@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['..\\src\\jiayuan.py'],
-             pathex=['D:\\jiayuan\\sbin'],
+             pathex=['D:\\jiayuan\\jiayuan_crawl\\sbin'],
              binaries=[],
              datas=[],
              hiddenimports=[],

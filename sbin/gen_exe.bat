@@ -1,4 +1,4 @@
-echo off
+﻿@echo off
 ::生成正式的
 pyinstaller --noconsole --onefile ../src/jiayuan.py
 mv dist/jiayuan.exe ..
