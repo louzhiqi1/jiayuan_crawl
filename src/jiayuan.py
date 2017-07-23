@@ -56,7 +56,7 @@ def gen_stc():
         stc.append("%s:%s" % (k, v))
 
     # 下面代表啥我也不知道
-    # stc.append("27:1")
+    stc.append("27:1")
 
     return ",".join(stc)
 
@@ -112,7 +112,7 @@ def gen_headers(p):
     header['X-Requested-With'] = 'XMLHttpRequest'
     header['Proxy-Connection'] = 'keep-alive'
     header['Host'] = 'search.jiayuan.com'
-    header['Progma'] = 'no-cache'
+    header['Pragma'] = 'no-cache'
 
     return header
 
@@ -215,11 +215,12 @@ def load_config(choice):
     fp = open(config, "r")
 
     content = fp.read()
-    p = re.compile("(\w+)=([\w\.]*).*")
+    p = re.compile("(\w.*)=([\w\.]*).*")
 
     match_obj = re.findall(p, content)
 
     for (key, val) in match_obj:
+        print key, val
         if key == "sex":
             sex = val
         elif key == "page":
@@ -236,8 +237,6 @@ if __name__ == "__main__":
         choice = 1
     start_time =  time.time()
     load_config(choice)
-
-    
 
     work()
 

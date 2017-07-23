@@ -1,3 +1,3 @@
 @echo on
-jiayuan_test.exe > error.txt
+jiayuan_test.exe 1 > error.txt
 pause
